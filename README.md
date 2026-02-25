@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Erie Home Basement Waterproofing - Field Marketer - South Bend](https://jobright.ai/jobs/info/699ef766ce78e77b4fe4acb8?utm_campaign=Marketing&utm_source=1103)** | 4341 Pine Creek Rd, Elkhart, IN 46516, USA | On Site | Feb 25 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Marketing and Communications Lead, Municipal ID program (NCS) - BCIT](https://jobright.ai/jobs/info/693e285449a7695fbd046e1a?utm_campaign=Marketing&utm_source=1103)** | Baltimore, MD | On Site | Feb 25 |
+| **[Acosta](https://www.acosta.com)** | **[Jr. Media Analyst](https://jobright.ai/jobs/info/6982ff748232105a2d0b7512?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | Hybrid | Feb 25 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Erie Home - Field Marketer - Boise](https://jobright.ai/jobs/info/699efe3194ef206f184e11f4?utm_campaign=Marketing&utm_source=1103)** | 4781 Goodall St, Garden City, ID 83714, USA | On Site | Feb 25 |
+| ↳ | **[Erie Home - Field Marketer - Appleton](https://jobright.ai/jobs/info/699efdd794ef206f184e11bd?utm_campaign=Marketing&utm_source=1103)** | 2030 American Dr, Neenah, WI 54956, USA | On Site | Feb 25 |
+| ↳ | **[Erie Home Basement Waterproofing - Field Marketer - Cincinnati](https://jobright.ai/jobs/info/699efce181476f6176b88334?utm_campaign=Marketing&utm_source=1103)** | 660 Redna Terrace suite 400, Cincinnati, OH 45215, USA | On Site | Feb 25 |
+| ↳ | **[Erie Home Basement Waterproofing - Field Marketer - South Bend](https://jobright.ai/jobs/info/699ef766ce78e77b4fe4acb8?utm_campaign=Marketing&utm_source=1103)** | 4341 Pine Creek Rd, Elkhart, IN 46516, USA | On Site | Feb 25 |
 | **[Acosta](https://www.acosta.com)** | **[Jr. Media Analyst](https://jobright.ai/jobs/info/6982fb14348f733a5c36137b?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 25 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Erie Home - Field Marketer - Champaign](https://jobright.ai/jobs/info/699ef47581476f6176b87c1a?utm_campaign=Marketing&utm_source=1103)** | 3611 N Staley Rd, Champaign, IL 61822, USA | On Site | Feb 25 |
 | ↳ | **[Erie Home Basement Waterproofing - Field Marketer - Appleton](https://jobright.ai/jobs/info/699ef3a581476f6176b87b26?utm_campaign=Marketing&utm_source=1103)** | 924 Byrd Ave, Neenah, WI 54956, USA | On Site | Feb 25 |
@@ -154,15 +159,15 @@ For a complete list, click the following sortable link below:
 | **[Cirrascale Cloud Services](http://cirrascale.com)** | **[Marketing Specialist](https://jobright.ai/jobs/info/699ede1594ef206f184de255?utm_campaign=Marketing&utm_source=1103)** | San Diego, CA | On Site | Feb 24 |
 | **[SAP](https://www.sap.com)** | **[SAP Operations Adoption Associate](https://jobright.ai/jobs/info/699ee5a494ef206f184de91d?utm_campaign=Marketing&utm_source=1103)** | Newtown Square, PA | Hybrid | Feb 24 |
 | **[MGM Resorts International](http://mgmresorts.com)** | **[Outbound Marketing Specialist MGMAir - Beau Rivage](https://jobright.ai/jobs/info/699e8e7381476f6176b7c6e6?utm_campaign=Marketing&utm_source=1103)** | Property - Beau Rivage | On Site | Feb 24 |
-| **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[Marketing Specialist, Social Media](https://jobright.ai/jobs/info/699e6c50ce78e77b4fe3ab66?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Feb 24 |
-| ↳ | **[Marketing Specialist, Social Media](https://jobright.ai/jobs/info/699e6e8ae0bddb6acacdfbe8?utm_campaign=Marketing&utm_source=1103)** | VA Herndon (Corporate) | On Site | Feb 24 |
+| **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[Marketing Specialist, Social Media](https://jobright.ai/jobs/info/699e6e8ae0bddb6acacdfbe8?utm_campaign=Marketing&utm_source=1103)** | VA Herndon (Corporate) | On Site | Feb 24 |
+| ↳ | **[Marketing Specialist, Social Media](https://jobright.ai/jobs/info/699e6c50ce78e77b4fe3ab66?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Feb 24 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Flow Merchandising Coordinator](https://jobright.ai/jobs/info/699e4dd4ce78e77b4fe37213?utm_campaign=Marketing&utm_source=1103)** | Salt Lake City, UT 84106 | On Site | Feb 24 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Associate Influencer Specialist](https://jobright.ai/jobs/info/699ebc9381476f6176b830d7?utm_campaign=Marketing&utm_source=1103)** | Westwood, MA | Hybrid | Feb 24 |
 | **[Greenlight Group](https://greenlightgroup.co/)** | **[Brand Partnerships Coordinator](https://jobright.ai/jobs/info/699eb1d081476f6176b82552?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Feb 24 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / Tampa, FL](https://jobright.ai/jobs/info/699e2956ce78e77b4fe33b10?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL | On Site | Feb 24 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador (Paid Weekly)](https://jobright.ai/jobs/info/699e4667ce78e77b4fe363d3?utm_campaign=Marketing&utm_source=1103)** | South Bend, IN | On Site | Feb 24 |
-| ↳ | **[Retail and Event Brand Ambassador](https://jobright.ai/jobs/info/699e4ddce0bddb6acacdbbd0?utm_campaign=Marketing&utm_source=1103)** | Cincinnati, OH | On Site | Feb 24 |
 | ↳ | **[Retail and Event Brand Ambassador](https://jobright.ai/jobs/info/699e4de8ce78e77b4fe37238?utm_campaign=Marketing&utm_source=1103)** | Sidney, OH | On Site | Feb 24 |
+| ↳ | **[Retail and Event Brand Ambassador](https://jobright.ai/jobs/info/699e4ddce0bddb6acacdbbd0?utm_campaign=Marketing&utm_source=1103)** | Cincinnati, OH | On Site | Feb 24 |
 | ↳ | **[Retail and Event Brand Ambassador](https://jobright.ai/jobs/info/699e5998e0bddb6acacdd335?utm_campaign=Marketing&utm_source=1103)** | Dayton, OH | On Site | Feb 24 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/699edc8bce78e77b4fe480dc?utm_campaign=Marketing&utm_source=1103)** | Gray, TN | On Site | Feb 24 |
 | ↳ | **[Retail and Event Brand Ambassador](https://jobright.ai/jobs/info/699ed99a81476f6176b84d48?utm_campaign=Marketing&utm_source=1103)** | Carmel, IN | On Site | Feb 24 |
@@ -199,6 +204,7 @@ For a complete list, click the following sortable link below:
 | **[Winston Retail](http://www.winstonretail.com)** | **[Retail Merchandising Specialist](https://jobright.ai/jobs/info/699e1165e0bddb6acacd73b2?utm_campaign=Marketing&utm_source=1103)** | Kearney, NE | On Site | Feb 24 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Marketing Communications Specialist](https://jobright.ai/jobs/info/699e3506e0bddb6acacd8f47?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Feb 24 |
 | **[Window Nation](http://windownation.com)** | **[Marketing Project Coordinator](https://jobright.ai/jobs/info/699e3b0481476f6176b71d88?utm_campaign=Marketing&utm_source=1103)** | Fulton, MD | On Site | Feb 24 |
+| **[TasteOne Brands LLC](https://www.tasteonebrands.com/)** | **[Marketing Specialist](https://jobright.ai/jobs/info/699effb4ce78e77b4fe4b519?utm_campaign=Marketing&utm_source=1103)** | Norcross, GA | On Site | Feb 24 |
 | **[Renuity](http://renuityhome.com/)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/699e47a8e0bddb6acacdb096?utm_campaign=Marketing&utm_source=1103)** | Amarillo, TX | On Site | Feb 24 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Merchandise Marketing Coordinator (TEMP)](https://jobright.ai/jobs/info/699e6fb1ce78e77b4fe3b2ff?utm_campaign=Marketing&utm_source=1103)** | 28-07 Jackson Avenue, Long Island City, NY, 11101, US | On Site | Feb 24 |
 | **[Toast](https://pos.toasttab.com)** | **[Associate, Internal & External Event Marketing](https://jobright.ai/jobs/info/699e0d7fe0bddb6acacd710e?utm_campaign=Marketing&utm_source=1103)** | Remote- USA | Remote | Feb 24 |
@@ -209,6 +215,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Account Coordinator](https://jobright.ai/jobs/info/699e6c37e0bddb6acacdf85d?utm_campaign=Marketing&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Feb 24 |
 | **[Movement Mortgage](https://movement.com)** | **[Field Marketing Specialist](https://jobright.ai/jobs/info/699ed66ace78e77b4fe479d7?utm_campaign=Marketing&utm_source=1103)** | Indian Land, SC | On Site | Feb 24 |
 | **[Winston Retail](http://www.winstonretail.com)** | **[Retail Merchandising Specialist](https://jobright.ai/jobs/info/699ee8b5ce78e77b4fe48e76?utm_campaign=Marketing&utm_source=1103)** | Maryville, MO | On Site | Feb 24 |
+| ↳ | **[Retail Merchandising Specialist](https://jobright.ai/jobs/info/699efc5394ef206f184e1065?utm_campaign=Marketing&utm_source=1103)** | Ironwood, MI | On Site | Feb 24 |
 | **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/699e376e81476f6176b71a28?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Feb 24 |
 | **[Movement Mortgage](https://movement.com)** | **[Field Marketing Specialist](https://jobright.ai/jobs/info/699e2f57ce78e77b4fe34003?utm_campaign=Marketing&utm_source=1103)** | Indian Land, SC | On Site | Feb 24 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Coordinator, Brand Marketing](https://jobright.ai/jobs/info/699e29cb81476f6176b709f3?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
@@ -256,6 +263,7 @@ For a complete list, click the following sortable link below:
 | **[LogicMonitor](http://www.logicmonitor.com)** | **[Event Marketing Specialist](https://jobright.ai/jobs/info/699df015ce78e77b4fe31339?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Hybrid | Feb 24 |
 | **[Chicago Elite Management](http://chicagoelitemanagement.com)** | **[Retail Marketing Representative](https://jobright.ai/jobs/info/699deff8e0bddb6acacd5a27?utm_campaign=Marketing&utm_source=1103)** | Cicero, IL | On Site | Feb 24 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Campaign Coordinator](https://jobright.ai/jobs/info/69810e987f40342e15d9e9f0?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 24 |
+| **[Société de sauvetage - Division du Québec](http://www.sauvetage.qc.ca)** | **[Coordonnateur.trice à la création de contenu](https://jobright.ai/jobs/info/699effc3ce78e77b4fe4b522?utm_campaign=Marketing&utm_source=1103)** | Quebec, Canada | Hybrid | Feb 24 |
 | **[Invesco](https://www.invesco.com)** | **[Analyst, Marketing Analytics](https://jobright.ai/jobs/info/699e0df6e0bddb6acacd7169?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | On Site | Feb 24 |
 | **[KeHE Distributors](https://www.kehe.com/)** | **[Coordinator, Marketing](https://jobright.ai/jobs/info/69655b456d52670c5c3e21d6?utm_campaign=Marketing&utm_source=1103)** | Mendota Heights, MN | On Site | Feb 24 |
 | **[Greystar](http://greystar.com)** | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699dece4ce78e77b4fe30b28?utm_campaign=Marketing&utm_source=1103)** | Conshohocken, PA | On Site | Feb 24 |
@@ -270,8 +278,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Category Manager](https://jobright.ai/jobs/info/699e29d881476f6176b709fc?utm_campaign=Marketing&utm_source=1103)** | US-Remote | Remote | Feb 24 |
 | **[Omnicom Media](http://www.omnicommedia.com)** | **[Media Planner (New York)](https://jobright.ai/jobs/info/699e1c9781476f6176b701a4?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | Hybrid | Feb 24 |
 | **[FairPlay Sports Media](https://fairplaysportsmedia.com)** | **[Marketing Operations and Content Coordinator](https://jobright.ai/jobs/info/699e284fce78e77b4fe33a33?utm_campaign=Marketing&utm_source=1103)** | US Remote - California | Remote | Feb 24 |
-| **[AHRC Nassau](https://www.ahrc.org)** | **[Foundation Development Coordinator](https://jobright.ai/jobs/info/699e336bce78e77b4fe345ac?utm_campaign=Marketing&utm_source=1103)** | US-NY-Brookville | On Site | Feb 24 |
-| ↳ | **[Foundation Development Coordinator](https://jobright.ai/jobs/info/699e25b181476f6176b70712?utm_campaign=Marketing&utm_source=1103)** | Brookville, NY, US | On Site | Feb 24 |
+| **[AHRC Nassau](https://www.ahrc.org)** | **[Foundation Development Coordinator](https://jobright.ai/jobs/info/699e25b181476f6176b70712?utm_campaign=Marketing&utm_source=1103)** | Brookville, NY, US | On Site | Feb 24 |
+| ↳ | **[Foundation Development Coordinator](https://jobright.ai/jobs/info/699e336bce78e77b4fe345ac?utm_campaign=Marketing&utm_source=1103)** | US-NY-Brookville | On Site | Feb 24 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Shift Lead - 773 Market](https://jobright.ai/jobs/info/699de5a481476f6176b6c931?utm_campaign=Marketing&utm_source=1103)** | San Francisco, California | On Site | Feb 24 |
 | **[Greystar](http://greystar.com)** | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699e04d7e0bddb6acacd6c20?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, United States | On Site | Feb 24 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/69498e8263141d1884592735?utm_campaign=Marketing&utm_source=1103)** | Richmond Hill, GA | On Site | Feb 24 |
@@ -317,6 +325,7 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Promotions Assistant](https://jobright.ai/jobs/info/69659e37a112b4026613a594?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Feb 24 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Assistant Marketing Manager - Miss Vickies](https://jobright.ai/jobs/info/6965a39c2cbf4e44756f4e1e?utm_campaign=Marketing&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Feb 24 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Paid Media Specialist](https://jobright.ai/jobs/info/69818fb149964d25b5e4a969?utm_campaign=Marketing&utm_source=1103)** | Pleasanton, CA | On Site | Feb 24 |
+| **[Trooh](https://trooh.com/)** | **[Campaign Planning Specialist - Media Sales](https://jobright.ai/jobs/info/699d03fc81476f6176b59cd3?utm_campaign=Marketing&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Feb 24 |
 | **[Reotemp Instruments](https://reotemp.com/)** | **[Product Marketer](https://jobright.ai/jobs/info/699d8ec2e0bddb6acacce8e4?utm_campaign=Marketing&utm_source=1103)** | San Diego Office - San Diego, CA 92121 | Hybrid | Feb 24 |
 | **[Metropolitan Library System of Oklahoma County](https://www.metrolibrary.org/)** | **[Marketing and Communications Coordinator](https://jobright.ai/jobs/info/699db6b981476f6176b69d4c?utm_campaign=Marketing&utm_source=1103)** | Downtown Library - Oklahoma City, OK 73102 | On Site | Feb 24 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/69653cce6d52670c5c3e0433?utm_campaign=Marketing&utm_source=1103)** | Gardena, CA | On Site | Feb 24 |
@@ -395,11 +404,11 @@ For a complete list, click the following sortable link below:
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[In House Marketing Coordinator - Princeville, Kauai](https://jobright.ai/jobs/info/699d14d4ce78e77b4fe1e5a5?utm_campaign=Marketing&utm_source=1103)** | Princeville, HI | On Site | Feb 23 |
 | **[Goodwill of North Georgia](https://goodwillng.org)** | **[Internal Communications Specialist](https://jobright.ai/jobs/info/699d264881476f6176b5cf26?utm_campaign=Marketing&utm_source=1103)** | Decatur, Georgia, United States | On Site | Feb 23 |
 | **[Mersive Technologies](http://www.mersive.com)** | **[Marketing Programs Specialist](https://jobright.ai/jobs/info/699d14e881476f6176b5b623?utm_campaign=Marketing&utm_source=1103)** | Lakewood, CO | On Site | Feb 23 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Associate Marketing Manager, Integrated Campaign Marketing](https://jobright.ai/jobs/info/699d1ceace78e77b4fe1f0e0?utm_campaign=Marketing&utm_source=1103)** | US-Remote | Remote | Feb 23 |
-| ↳ | **[Associate Marketing Manager, Integrated Campaign Marketing](https://jobright.ai/jobs/info/699d225581476f6176b5c904?utm_campaign=Marketing&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Feb 23 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Associate Marketing Manager, Integrated Campaign Marketing](https://jobright.ai/jobs/info/699d225581476f6176b5c904?utm_campaign=Marketing&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Feb 23 |
+| ↳ | **[Associate Marketing Manager, Integrated Campaign Marketing](https://jobright.ai/jobs/info/699d1ceace78e77b4fe1f0e0?utm_campaign=Marketing&utm_source=1103)** | US-Remote | Remote | Feb 23 |
 | **[Helm](http://www.helm.ceo)** | **[Digital Marketing Coordinator](https://jobright.ai/jobs/info/699d3029ce78e77b4fe21602?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Feb 23 |
-| **[Carle Health](http://www.carle.org)** | **[Organic Social Media Coordinator - Stratum](https://jobright.ai/jobs/info/699d0bbce0bddb6acacc26ed?utm_campaign=Marketing&utm_source=1103)** | Champaign, IL, US | Hybrid | Feb 23 |
-| ↳ | **[Organic Social Media Coordinator - Stratum](https://jobright.ai/jobs/info/699d10f881476f6176b5b14d?utm_campaign=Marketing&utm_source=1103)** | US-IL-Champaign | Hybrid | Feb 23 |
+| **[Carle Health](http://www.carle.org)** | **[Organic Social Media Coordinator - Stratum](https://jobright.ai/jobs/info/699d10f881476f6176b5b14d?utm_campaign=Marketing&utm_source=1103)** | US-IL-Champaign | Hybrid | Feb 23 |
+| ↳ | **[Organic Social Media Coordinator - Stratum](https://jobright.ai/jobs/info/699d0bbce0bddb6acacc26ed?utm_campaign=Marketing&utm_source=1103)** | Champaign, IL, US | Hybrid | Feb 23 |
 | **[AXM (Ars X Machina)](https://weareaxm.com)** | **[Specialist, Paid Social](https://jobright.ai/jobs/info/699d2197ce78e77b4fe1f718?utm_campaign=Marketing&utm_source=1103)** | Remote - San Francisco, CA | Remote | Feb 23 |
 | ↳ | **[Media Planner](https://jobright.ai/jobs/info/699d1e3d81476f6176b5c2f9?utm_campaign=Marketing&utm_source=1103)** | Remote - San Francisco, CA | Remote | Feb 23 |
 | **[Papé Group](https://agriculture.papemachinery.com/)** | **[Digital Inventory & Marketing Specialist](https://jobright.ai/jobs/info/699d2e1681476f6176b5e29d?utm_campaign=Marketing&utm_source=1103)** | Aurora, Oregon, United States | On Site | Feb 23 |
@@ -416,7 +425,6 @@ For a complete list, click the following sortable link below:
 | **[Walters Hospitality](https://waltersweddingestates.com)** | **[Event Manager](https://jobright.ai/jobs/info/699d2d4281476f6176b5e157?utm_campaign=Marketing&utm_source=1103)** | Sugar Hill, GA - Sugar Hill, GA | On Site | Feb 23 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Coordinator, Brand Marketing](https://jobright.ai/jobs/info/699d030ece78e77b4fe1cc13?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Feb 23 |
 | **[Vevo](http://vevo.com)** | **[Associate Media Sponsorships Analyst](https://jobright.ai/jobs/info/699cffd581476f6176b59467?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Feb 23 |
-| **[Trooh](https://trooh.com/)** | **[Campaign Proposal Specialist](https://jobright.ai/jobs/info/699d03fc81476f6176b59cd3?utm_campaign=Marketing&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Feb 23 |
 | **[Distinct Vancouver](https://distinctvancouver.com/)** | **[Event Marketing Assistant](https://jobright.ai/jobs/info/699cd7c481476f6176b56394?utm_campaign=Marketing&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 23 |
 | **[Penn State University](http://psu.edu)** | **[Marketing and Communications Specialist](https://jobright.ai/jobs/info/699d9020e0bddb6acaccea02?utm_campaign=Marketing&utm_source=1103)** | University Park, PA | Hybrid | Feb 23 |
 | **[Natalie's Orchid Island Juice Company](http://www.orchidislandjuice.com/)** | **[Brand Ambassador - Seattle (or PNW)](https://jobright.ai/jobs/info/699d07b6ce78e77b4fe1d653?utm_campaign=Marketing&utm_source=1103)** | United States | On Site | Feb 23 |
@@ -483,13 +491,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699cd7c8ce78e77b4fe191a9?utm_campaign=Marketing&utm_source=1103)** | League City, TX | On Site | Feb 23 |
 | **[Bain & Company](https://www.bain.com)** | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d5c64727747250d583f43?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Feb 23 |
 | ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d646a3f57a335696746b3?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | On Site | Feb 23 |
+| ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d645e137a051025668531?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Feb 23 |
 | ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d65ff727747250d584a42?utm_campaign=Marketing&utm_source=1103)** | Houston, TX | On Site | Feb 23 |
 | ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d6608727747250d584a4f?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | On Site | Feb 23 |
-| ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d645e137a051025668531?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Feb 23 |
 | ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d6a42137a051025668c9b?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Feb 23 |
-| ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d667d727747250d584ae0?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | On Site | Feb 23 |
-| ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d64573f57a3356967469b?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Feb 23 |
 | ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d638c727747250d58472e?utm_campaign=Marketing&utm_source=1103)** | Palo Alto, CA | On Site | Feb 23 |
+| ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d64573f57a3356967469b?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Feb 23 |
+| ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d667d727747250d584ae0?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | On Site | Feb 23 |
 | ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d5c5f727747250d583f3d?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Feb 23 |
 | ↳ | **[Marketing Events Coordinator (6-Month Contract)](https://jobright.ai/jobs/info/697d67993f57a33569674af7?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Feb 23 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Coordinator, Social Marketing Operations](https://jobright.ai/jobs/info/699cb274ce78e77b4fe17282?utm_campaign=Marketing&utm_source=1103)** | Burbank, CA | On Site | Feb 23 |
@@ -498,8 +506,8 @@ For a complete list, click the following sortable link below:
 | **[UpdatePromise](http://www.updatepromise.com)** | **[Marketing Specialist](https://jobright.ai/jobs/info/699cf6ade0bddb6acacc0269?utm_campaign=Marketing&utm_source=1103)** | Chino, CA | On Site | Feb 23 |
 | **[Vevo](http://vevo.com)** | **[Associate Media Sponsorships Analyst](https://jobright.ai/jobs/info/699cddaa81476f6176b56808?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Feb 23 |
 | **[Active International](http://activeinternational.com)** | **[Campaign Coordinator, Advanced TV](https://jobright.ai/jobs/info/6944e93550bbaf765056f190?utm_campaign=Marketing&utm_source=1103)** | Pearl River, NY | On Site | Feb 23 |
-| **[Winston Retail](http://www.winstonretail.com)** | **[Retail Merchandising Specialist](https://jobright.ai/jobs/info/699cde48e0bddb6acacbe582?utm_campaign=Marketing&utm_source=1103)** | Ruidoso Downs, NM | On Site | Feb 23 |
-| ↳ | **[Retail Merchandising Specialist](https://jobright.ai/jobs/info/699cd802ce78e77b4fe191cb?utm_campaign=Marketing&utm_source=1103)** | Kingsville, TX | On Site | Feb 23 |
+| **[Winston Retail](http://www.winstonretail.com)** | **[Retail Merchandising Specialist](https://jobright.ai/jobs/info/699cd802ce78e77b4fe191cb?utm_campaign=Marketing&utm_source=1103)** | Kingsville, TX | On Site | Feb 23 |
+| ↳ | **[Retail Merchandising Specialist](https://jobright.ai/jobs/info/699cde48e0bddb6acacbe582?utm_campaign=Marketing&utm_source=1103)** | Ruidoso Downs, NM | On Site | Feb 23 |
 | **[CRISP & GREEN®](https://crispandgreen.com/)** | **[Brand Activator - Naperville](https://jobright.ai/jobs/info/699cafacce78e77b4fe17090?utm_campaign=Marketing&utm_source=1103)** | Hybrid Remote | Hybrid | Feb 23 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[In-House Marketing Representative - $75k-$90k+ Target](https://jobright.ai/jobs/info/699cdb97e0bddb6acacbe416?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Feb 23 |
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Marketing Coordinator / Full-Time / Donald L Tucker Civic Center](https://jobright.ai/jobs/info/699caedde0bddb6acacbbe02?utm_campaign=Marketing&utm_source=1103)** | Donald L Tucker Civic Center (Florida State U) | On Site | Feb 23 |
@@ -510,13 +518,13 @@ For a complete list, click the following sortable link below:
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Social Media Assistant, Center for Global Engagement](https://jobright.ai/jobs/info/699cfdafce78e77b4fe1c0e2?utm_campaign=Marketing&utm_source=1103)** | Boca Raton | On Site | Feb 23 |
 | **[Biolumina](http://biolumina.com)** | **[Copywriter](https://jobright.ai/jobs/info/68ba24518043103d4f21dd40?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Feb 23 |
 | **[Turning Stone Enterprises](https://www.turningstoneenterprises.com)** | **[Event Coordinator](https://jobright.ai/jobs/info/6998ccfbe0bddb6acac7b907?utm_campaign=Marketing&utm_source=1103)** | Verona, NY | On Site | Feb 23 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699ced52ce78e77b4fe1a5b0?utm_campaign=Marketing&utm_source=1103)** | Remote Maryland, Remote Maryland, MD | Remote | Feb 23 |
-| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699d081be0bddb6acacc23c1?utm_campaign=Marketing&utm_source=1103)** | City Office Philadelphia, Conshohocken, PA | Remote | Feb 23 |
+| **[Greystar (International)](http://www.greystar.com)** | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699cfab0e0bddb6acacc0a78?utm_campaign=Marketing&utm_source=1103)** | Remote Pennsylvania, Remote Pennsylvania, PA | Remote | Feb 23 |
 | ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699cf27481476f6176b57dbd?utm_campaign=Marketing&utm_source=1103)** | Remote Massachusetts, Remote Massachusets, MA | Remote | Feb 23 |
-| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699ce1d0e0bddb6acacbe7fe?utm_campaign=Marketing&utm_source=1103)** | City Office New York, New York, NY | Remote | Feb 23 |
-| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699cfab0e0bddb6acacc0a78?utm_campaign=Marketing&utm_source=1103)** | Remote Pennsylvania, Remote Pennsylvania, PA | Remote | Feb 23 |
-| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699d06f8ce78e77b4fe1d4aa?utm_campaign=Marketing&utm_source=1103)** | Remote New York, Remote New York, NY | Remote | Feb 23 |
+| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699d081be0bddb6acacc23c1?utm_campaign=Marketing&utm_source=1103)** | City Office Philadelphia, Conshohocken, PA | Remote | Feb 23 |
 | ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699cf09081476f6176b57b42?utm_campaign=Marketing&utm_source=1103)** | City Office Boston, Boston, MA | Remote | Feb 23 |
+| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699ced52ce78e77b4fe1a5b0?utm_campaign=Marketing&utm_source=1103)** | Remote Maryland, Remote Maryland, MD | Remote | Feb 23 |
+| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699d06f8ce78e77b4fe1d4aa?utm_campaign=Marketing&utm_source=1103)** | Remote New York, Remote New York, NY | Remote | Feb 23 |
+| ↳ | **[Marketing Strategy Associate - Owned Assets](https://jobright.ai/jobs/info/699ce1d0e0bddb6acacbe7fe?utm_campaign=Marketing&utm_source=1103)** | City Office New York, New York, NY | Remote | Feb 23 |
 | **[Corient](https://corient.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/699d0366ce78e77b4fe1ccd1?utm_campaign=Marketing&utm_source=1103)** | Morristown, NJ | On Site | Feb 23 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Analyst, Market Insights (hybrid)](https://jobright.ai/jobs/info/699d083e81476f6176b5a5f1?utm_campaign=Marketing&utm_source=1103)** | Columbia City, Indiana | Hybrid | Feb 23 |
 | ↳ | **[Analyst, Market Insights (hybrid)](https://jobright.ai/jobs/info/699cf80dce78e77b4fe1b583?utm_campaign=Marketing&utm_source=1103)** | Bloomington, Minnesota | Hybrid | Feb 23 |
@@ -608,12 +616,12 @@ For a complete list, click the following sortable link below:
 | **[Mint Cannabis](https://themintcannabis.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/699d155bce78e77b4fe1e670?utm_campaign=Marketing&utm_source=1103)** | Tempe, AZ | On Site | Feb 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[SOCIAL MEDIA ADMINISTRATIVE RECEPTIONIST](https://jobright.ai/jobs/info/699bfe78ce78e77b4fe08fbe?utm_campaign=Marketing&utm_source=1103)** | Pittsburgh, PA | On Site | Feb 22 |
 | **[Seronda Network](https://www.serondanetwork.com/)** | **[Entry Level Marketing Associate](https://jobright.ai/jobs/info/699cf97de0bddb6acacc0802?utm_campaign=Marketing&utm_source=1103)** | Oak Level, NC | On Site | Feb 22 |
-| ↳ | **[Entry Level Marketing Agent](https://jobright.ai/jobs/info/699cf0c3ce78e77b4fe1a894?utm_campaign=Marketing&utm_source=1103)** | Kansas City, MO | On Site | Feb 22 |
 | ↳ | **[Public Relations Associate](https://jobright.ai/jobs/info/699d000581476f6176b594bc?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | On Site | Feb 22 |
-| **[Renuity](http://renuityhome.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699c9c6bce78e77b4fe162cc?utm_campaign=Marketing&utm_source=1103)** | League City, TX | On Site | Feb 22 |
+| ↳ | **[Entry Level Marketing Agent](https://jobright.ai/jobs/info/699cf0c3ce78e77b4fe1a894?utm_campaign=Marketing&utm_source=1103)** | Kansas City, MO | On Site | Feb 22 |
+| **[Renuity](http://renuityhome.com/)** | **[Part Time Event and Retail Specialist](https://jobright.ai/jobs/info/699d0e9181476f6176b5aefc?utm_campaign=Marketing&utm_source=1103)** | Woburn, MA | On Site | Feb 22 |
 | ↳ | **[Event and Retail Specialist](https://jobright.ai/jobs/info/699d20e4ce78e77b4fe1f600?utm_campaign=Marketing&utm_source=1103)** | Woburn, MA | On Site | Feb 22 |
-| ↳ | **[Part Time Event and Retail Specialist](https://jobright.ai/jobs/info/699d0e9181476f6176b5aefc?utm_campaign=Marketing&utm_source=1103)** | Woburn, MA | On Site | Feb 22 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699cf28be0bddb6acacbfaad?utm_campaign=Marketing&utm_source=1103)** | Valdosta, GA | On Site | Feb 22 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699c9c6bce78e77b4fe162cc?utm_campaign=Marketing&utm_source=1103)** | League City, TX | On Site | Feb 22 |
 | **[Elevare Branding](https://www.elevarebranding.com)** | **[Marketing Agent](https://jobright.ai/jobs/info/699b7a8781476f6176b3e7a3?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Feb 22 |
 | **[Catch Vibe Voice](https://www.catchvibevoice.com/)** | **[Brand Promoter](https://jobright.ai/jobs/info/699b7835e0bddb6acaca6707?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | On Site | Feb 22 |
 | **[Elevare Branding](https://www.elevarebranding.com)** | **[Promotions Assistant](https://jobright.ai/jobs/info/699b7769e0bddb6acaca66e0?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Feb 22 |
@@ -755,8 +763,8 @@ For a complete list, click the following sortable link below:
 | **[Joyce Windows, Sunrooms & Baths](https://www.joycefactorydirect.com)** | **[Field Canvasser](https://jobright.ai/jobs/info/699c437381476f6176b4bcfb?utm_campaign=Marketing&utm_source=1103)** | Cleveland, OH, US | On Site | Feb 20 |
 | **[Viant Technology](http://viantinc.com/)** | **[Programmatic Campaign Manager](https://jobright.ai/jobs/info/6999366dce78e77b4fddf11d?utm_campaign=Marketing&utm_source=1103)** | Irvine, CA | Hybrid | Feb 20 |
 | **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Merchandising Assistant](https://jobright.ai/jobs/info/699915fe81476f6176b18e79?utm_campaign=Marketing&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 20 |
-| **[FanDuel](http://www.fanduel.com)** | **[Promotion Operations Associate](https://jobright.ai/jobs/info/69993a64e0bddb6acac84e9b?utm_campaign=Marketing&utm_source=1103)** | Atlanta | Hybrid | Feb 20 |
-| ↳ | **[Promotion Operations Associate](https://jobright.ai/jobs/info/699932b081476f6176b1bd82?utm_campaign=Marketing&utm_source=1103)** | Jersey City | Hybrid | Feb 20 |
+| **[FanDuel](http://www.fanduel.com)** | **[Promotion Operations Associate](https://jobright.ai/jobs/info/699932b081476f6176b1bd82?utm_campaign=Marketing&utm_source=1103)** | Jersey City | Hybrid | Feb 20 |
+| ↳ | **[Promotion Operations Associate](https://jobright.ai/jobs/info/69993a64e0bddb6acac84e9b?utm_campaign=Marketing&utm_source=1103)** | Atlanta | Hybrid | Feb 20 |
 | ↳ | **[Promotion Operations Associate](https://jobright.ai/jobs/info/699934b5ce78e77b4fddeded?utm_campaign=Marketing&utm_source=1103)** | New York City | Hybrid | Feb 20 |
 | ↳ | **[Media Associate](https://jobright.ai/jobs/info/69962b7cce78e77b4fda21f8?utm_campaign=Marketing&utm_source=1103)** | Toronto | Hybrid | Feb 20 |
 | **[Rite Window, Boston MA](https://ritewindow.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/6999340ace78e77b4fdded26?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Feb 20 |
@@ -764,11 +772,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69994297e0bddb6acac85de3?utm_campaign=Marketing&utm_source=1103)** | Palm Bay, FL | On Site | Feb 20 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69993979ce78e77b4fddf649?utm_campaign=Marketing&utm_source=1103)** | St Augustine, FL | On Site | Feb 20 |
 | **[Renuity](http://renuityhome.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699933dbce78e77b4fddece9?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL | On Site | Feb 20 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699945c2e0bddb6acac86379?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Feb 20 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699940fde0bddb6acac85a42?utm_campaign=Marketing&utm_source=1103)** | Sarasota, FL | On Site | Feb 20 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699945c2e0bddb6acac86379?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Feb 20 |
 | ↳ | **[Retail Brand Ambassador - Bilingual](https://jobright.ai/jobs/info/6999402ce0bddb6acac85933?utm_campaign=Marketing&utm_source=1103)** | Kendall, FL | On Site | Feb 20 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69993e01e0bddb6acac85481?utm_campaign=Marketing&utm_source=1103)** | St Augustine, FL | On Site | Feb 20 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699937f3ce78e77b4fddf33e?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Feb 20 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69993e01e0bddb6acac85481?utm_campaign=Marketing&utm_source=1103)** | St Augustine, FL | On Site | Feb 20 |
 | **[Rite Window, Boston MA](https://ritewindow.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/6999330ece78e77b4fddebd8?utm_campaign=Marketing&utm_source=1103)** | The Woodlands, TX | On Site | Feb 20 |
 | **[Renuity](http://renuityhome.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69993745ce78e77b4fddf24b?utm_campaign=Marketing&utm_source=1103)** | Palm Bay, FL | On Site | Feb 20 |
 | **[Rite Window, Boston MA](https://ritewindow.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/6999385e81476f6176b1c552?utm_campaign=Marketing&utm_source=1103)** | Fort Myers, FL | On Site | Feb 20 |
@@ -795,16 +803,16 @@ For a complete list, click the following sortable link below:
 | **[Team Velocity](http://www.teamvelocitymarketing.com)** | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69991cac81476f6176b19a44?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | Remote | Feb 20 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/699918e7e0bddb6acac8149b?utm_campaign=Marketing&utm_source=1103)** | Louisville, KY, US | On Site | Feb 20 |
 | **[Team Velocity](http://www.teamvelocitymarketing.com)** | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69994911e0bddb6acac86690?utm_campaign=Marketing&utm_source=1103)** | Charleston, SC | Remote | Feb 20 |
-| ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69992729ce78e77b4fddd76f?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | Remote | Feb 20 |
-| ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69991fa3ce78e77b4fddc87d?utm_campaign=Marketing&utm_source=1103)** | Remote, Continental U.S., VA | Remote | Feb 20 |
 | ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/699914a481476f6176b18beb?utm_campaign=Marketing&utm_source=1103)** | Columbus, OH | Remote | Feb 20 |
+| ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69991fa3ce78e77b4fddc87d?utm_campaign=Marketing&utm_source=1103)** | Remote, Continental U.S., VA | Remote | Feb 20 |
 | ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/6999539281476f6176b1f6a6?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Remote | Feb 20 |
 | ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/6999483ee0bddb6acac865e9?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | Remote | Feb 20 |
 | ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69994ddde0bddb6acac8703b?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL | Remote | Feb 20 |
-| ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69992233ce78e77b4fddccc2?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | Remote | Feb 20 |
+| ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69992729ce78e77b4fddd76f?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | Remote | Feb 20 |
 | ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69991ad0ce78e77b4fddbf78?utm_campaign=Marketing&utm_source=1103)** | Houston, TX | Remote | Feb 20 |
-| **[Dot Foods](http://dotfoods.com)** | **[Digital Marketing Assistant](https://jobright.ai/jobs/info/699956d481476f6176b1fc91?utm_campaign=Marketing&utm_source=1103)** | Chesterfield, Missouri, United States | On Site | Feb 20 |
-| ↳ | **[Digital Marketing Assistant](https://jobright.ai/jobs/info/6999382dce78e77b4fddf379?utm_campaign=Marketing&utm_source=1103)** | Mt Sterling, Illinois, United States | On Site | Feb 20 |
+| ↳ | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/69992233ce78e77b4fddccc2?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | Remote | Feb 20 |
+| **[Dot Foods](http://dotfoods.com)** | **[Digital Marketing Assistant](https://jobright.ai/jobs/info/6999382dce78e77b4fddf379?utm_campaign=Marketing&utm_source=1103)** | Mt Sterling, Illinois, United States | On Site | Feb 20 |
+| ↳ | **[Digital Marketing Assistant](https://jobright.ai/jobs/info/699956d481476f6176b1fc91?utm_campaign=Marketing&utm_source=1103)** | Chesterfield, Missouri, United States | On Site | Feb 20 |
 | **[The Hoffman Agency](http://www.hoffman.com/)** | **[Digital Account Executive - B2B Tech PR](https://jobright.ai/jobs/info/6998eafde0bddb6acac7d5c0?utm_campaign=Marketing&utm_source=1103)** | Portland, Oregon Metropolitan Area | Hybrid | Feb 20 |
 | **[SC&H](http://www.schgroup.com)** | **[Marketing Strategy Coordinator](https://jobright.ai/jobs/info/699958efe0bddb6acac8860d?utm_campaign=Marketing&utm_source=1103)** | Hunt Valley, Maryland, United States | On Site | Feb 20 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[ELA Growth & User Operations Specialist](https://jobright.ai/jobs/info/699917fcce78e77b4fddba11?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Feb 20 |
@@ -1002,11 +1010,11 @@ For a complete list, click the following sortable link below:
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Associate Analyst, Programmatic](https://jobright.ai/jobs/info/6997c3b1e0bddb6acac6877d?utm_campaign=Marketing&utm_source=1103)** | New Philadelphia, PA | On Site | Feb 19 |
 | **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/6997dfa1e0bddb6acac6b5b4?utm_campaign=Marketing&utm_source=1103)** | Green Bay, WI | On Site | Feb 19 |
 | ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/6997ed6fce78e77b4fdc74eb?utm_campaign=Marketing&utm_source=1103)** | Oshkosh, WI | On Site | Feb 19 |
-| ↳ | **[Event Marketing Representatives, Start Earning Your Worth Today](https://jobright.ai/jobs/info/6997ed3181476f6176b03bb2?utm_campaign=Marketing&utm_source=1103)** | Fond du Lac, WI | On Site | Feb 19 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/6997e7c0ce78e77b4fdc66c9?utm_campaign=Marketing&utm_source=1103)** | Fond du Lac, WI | On Site | Feb 19 |
-| ↳ | **[Event Marketing Representatives, Start Earning Your Worth Today](https://jobright.ai/jobs/info/6997dbfee0bddb6acac6acf1?utm_campaign=Marketing&utm_source=1103)** | Oshkosh, WI | On Site | Feb 19 |
 | ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/6997ef12ce78e77b4fdc78fc?utm_campaign=Marketing&utm_source=1103)** | Appleton, WI | On Site | Feb 19 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/6997e7c0ce78e77b4fdc66c9?utm_campaign=Marketing&utm_source=1103)** | Fond du Lac, WI | On Site | Feb 19 |
 | ↳ | **[Event Marketing Representatives, Start Earning Your Worth Today](https://jobright.ai/jobs/info/6997e24981476f6176b01ffe?utm_campaign=Marketing&utm_source=1103)** | Green Bay, WI | On Site | Feb 19 |
+| ↳ | **[Event Marketing Representatives, Start Earning Your Worth Today](https://jobright.ai/jobs/info/6997dbfee0bddb6acac6acf1?utm_campaign=Marketing&utm_source=1103)** | Oshkosh, WI | On Site | Feb 19 |
+| ↳ | **[Event Marketing Representatives, Start Earning Your Worth Today](https://jobright.ai/jobs/info/6997ed3181476f6176b03bb2?utm_campaign=Marketing&utm_source=1103)** | Fond du Lac, WI | On Site | Feb 19 |
 | **[JOE & THE JUICE](https://www.joejuice.com/)** | **[Brand and Content Coordinator](https://jobright.ai/jobs/info/6997bc4881476f6176afe218?utm_campaign=Marketing&utm_source=1103)** | New York, New York | On Site | Feb 19 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Merchandising Assistant II](https://jobright.ai/jobs/info/69915ee60cc8ea15f1dc033d?utm_campaign=Marketing&utm_source=1103)** | North Hatfield, MA | On Site | Feb 19 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[In-House Marketing Coordinator](https://jobright.ai/jobs/info/6997d536ce78e77b4fdc4337?utm_campaign=Marketing&utm_source=1103)** | Napa, CA | On Site | Feb 19 |
@@ -1019,36 +1027,36 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Planning Strategist](https://jobright.ai/jobs/info/6997e15e81476f6176b01ce1?utm_campaign=Marketing&utm_source=1103)** | new york,NY,US | Hybrid | Feb 19 |
 | **[Boudreaux's New Drug Store](https://www.boudreauxsnewdrug.com)** | **[Marketing Content Creator](https://jobright.ai/jobs/info/6997d636e0bddb6acac6a391?utm_campaign=Marketing&utm_source=1103)** | Lake Charles, LA, US | On Site | Feb 19 |
 | **[American Residential Services](http://ars.com)** | **[Bi-Lingual Brand Ambassador](https://jobright.ai/jobs/info/6997edfbce78e77b4fdc775a?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL, US | On Site | Feb 19 |
-| ↳ | **[In Store Brand Ambassador - Ladson](https://jobright.ai/jobs/info/6998a65dce78e77b4fdd40a5?utm_campaign=Marketing&utm_source=1103)** | Ladson, SC, US | On Site | Feb 19 |
 | ↳ | **[Product Ambassador - Fayetteville, GA](https://jobright.ai/jobs/info/6997e80ee0bddb6acac6c945?utm_campaign=Marketing&utm_source=1103)** | Fayetteville, GA, US | On Site | Feb 19 |
+| ↳ | **[In Store Brand Ambassador - Ladson](https://jobright.ai/jobs/info/6998a65dce78e77b4fdd40a5?utm_campaign=Marketing&utm_source=1103)** | Ladson, SC, US | On Site | Feb 19 |
 | ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/6998844a81476f6176b0f2b7?utm_campaign=Marketing&utm_source=1103)** | Bellevue, NE, US | On Site | Feb 19 |
 | ↳ | **[Product Ambassador - Woodstock](https://jobright.ai/jobs/info/6997eb0fe0bddb6acac6cfdd?utm_campaign=Marketing&utm_source=1103)** | Woodstock, GA, US | On Site | Feb 19 |
 | ↳ | **[Product Ambassador - Woodstock](https://jobright.ai/jobs/info/6997c75de0bddb6acac68b3f?utm_campaign=Marketing&utm_source=1103)** | Allgood (Woodstock, GA) | On Site | Feb 19 |
-| ↳ | **[Product Ambassador - Woodstock](https://jobright.ai/jobs/info/6997c9f9ce78e77b4fdc320b?utm_campaign=Marketing&utm_source=1103)** | US-GA-Woodstock | On Site | Feb 19 |
-| ↳ | **[Bi-Lingual Brand Ambassador](https://jobright.ai/jobs/info/6997ecdae0bddb6acac6d1d5?utm_campaign=Marketing&utm_source=1103)** | US-FL-Tampa | On Site | Feb 19 |
 | ↳ | **[Bi-Lingual Brand Ambassador](https://jobright.ai/jobs/info/6997cfd0ce78e77b4fdc3a37?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL, US | On Site | Feb 19 |
 | ↳ | **[Bi-Lingual Brand Ambassador](https://jobright.ai/jobs/info/6997cfb781476f6176b0009c?utm_campaign=Marketing&utm_source=1103)** | ARS (Hillsborough, FL) | On Site | Feb 19 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/69987df8e0bddb6acac7745f?utm_campaign=Marketing&utm_source=1103)** | Aksarben (Bellevue) | On Site | Feb 19 |
-| ↳ | **[Product Ambassador - Fayetteville, GA](https://jobright.ai/jobs/info/6997c736ce78e77b4fdc2d3c?utm_campaign=Marketing&utm_source=1103)** | US-GA-Fayetteville | On Site | Feb 19 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/69988af4ce78e77b4fdd2ed7?utm_campaign=Marketing&utm_source=1103)** | US-NE-Bellevue | On Site | Feb 19 |
+| ↳ | **[Bi-Lingual Brand Ambassador](https://jobright.ai/jobs/info/6997ecdae0bddb6acac6d1d5?utm_campaign=Marketing&utm_source=1103)** | US-FL-Tampa | On Site | Feb 19 |
+| ↳ | **[Product Ambassador - Woodstock](https://jobright.ai/jobs/info/6997c9f9ce78e77b4fdc320b?utm_campaign=Marketing&utm_source=1103)** | US-GA-Woodstock | On Site | Feb 19 |
 | ↳ | **[Product Ambassador - Fayetteville, GA](https://jobright.ai/jobs/info/6997e2ace0bddb6acac6bbad?utm_campaign=Marketing&utm_source=1103)** | Allgood (Fayetteville, GA) | On Site | Feb 19 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/69988af4ce78e77b4fdd2ed7?utm_campaign=Marketing&utm_source=1103)** | US-NE-Bellevue | On Site | Feb 19 |
+| ↳ | **[Product Ambassador - Fayetteville, GA](https://jobright.ai/jobs/info/6997c736ce78e77b4fdc2d3c?utm_campaign=Marketing&utm_source=1103)** | US-GA-Fayetteville | On Site | Feb 19 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/69987df8e0bddb6acac7745f?utm_campaign=Marketing&utm_source=1103)** | Aksarben (Bellevue) | On Site | Feb 19 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Community Content Specialist](https://jobright.ai/jobs/info/6997dbe7e0bddb6acac6accf?utm_campaign=Marketing&utm_source=1103)** | El Segundo, CA, US | Hybrid | Feb 19 |
 | ↳ | **[Community Content Specialist](https://jobright.ai/jobs/info/6997d75b81476f6176b00d1f?utm_campaign=Marketing&utm_source=1103)** | US-CA-El Segundo | Hybrid | Feb 19 |
 | **[Digital Strike - Targeted Marketing](https://www.digitalstrike.com/)** | **[Paid Search Strategist](https://jobright.ai/jobs/info/6997ebecce78e77b4fdc71ac?utm_campaign=Marketing&utm_source=1103)** | Saint Louis, MO, US | Hybrid | Feb 19 |
-| **[Renuity](http://renuityhome.com/)** | **[Brand Ambassdor](https://jobright.ai/jobs/info/69989324e0bddb6acac79322?utm_campaign=Marketing&utm_source=1103)** | Tulsa, OK | On Site | Feb 19 |
-| ↳ | **[Retail Brand Ambassador - Urgently Hiring](https://jobright.ai/jobs/info/6998b6b981476f6176b1270d?utm_campaign=Marketing&utm_source=1103)** | Merritt Island, FL | On Site | Feb 19 |
+| **[Renuity](http://renuityhome.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/6999df68e0bddb6acac90e84?utm_campaign=Marketing&utm_source=1103)** | Sugarland, TX | On Site | Feb 19 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69991ae6ce78e77b4fddbf94?utm_campaign=Marketing&utm_source=1103)** | Woodlands, TX | On Site | Feb 19 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69991e1be0bddb6acac81e28?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Feb 19 |
-| ↳ | **[Brand Ambassador  (Full-Time or Part-Time)](https://jobright.ai/jobs/info/69988ccdce78e77b4fdd3221?utm_campaign=Marketing&utm_source=1103)** | North Houston, TX | On Site | Feb 19 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/6998fa0ee0bddb6acac7eb66?utm_campaign=Marketing&utm_source=1103)** | Palm Bay, FL | On Site | Feb 19 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69990b7881476f6176b180be?utm_campaign=Marketing&utm_source=1103)** | St Augustine, FL | On Site | Feb 19 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/6999df68e0bddb6acac90e84?utm_campaign=Marketing&utm_source=1103)** | Sugarland, TX | On Site | Feb 19 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69990877e0bddb6acac7ff2f?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Feb 19 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/699918acce78e77b4fddbb7d?utm_campaign=Marketing&utm_source=1103)** | Sarasota, FL | On Site | Feb 19 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/6998a5c2e0bddb6acac79e99?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | On Site | Feb 19 |
 | ↳ | **[Retail Brand Ambassador - Bilingual](https://jobright.ai/jobs/info/6998fd9ce0bddb6acac7f14f?utm_campaign=Marketing&utm_source=1103)** | Kendall, FL | On Site | Feb 19 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69991192ce78e77b4fddae2e?utm_campaign=Marketing&utm_source=1103)** | Fort Myers, FL | On Site | Feb 19 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69990877e0bddb6acac7ff2f?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Feb 19 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69991bcbe0bddb6acac819ae?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL | On Site | Feb 19 |
+| ↳ | **[Brand Ambassdor](https://jobright.ai/jobs/info/69989324e0bddb6acac79322?utm_campaign=Marketing&utm_source=1103)** | Tulsa, OK | On Site | Feb 19 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69991192ce78e77b4fddae2e?utm_campaign=Marketing&utm_source=1103)** | Fort Myers, FL | On Site | Feb 19 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/6998fa0ee0bddb6acac7eb66?utm_campaign=Marketing&utm_source=1103)** | Palm Bay, FL | On Site | Feb 19 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/6998a5c2e0bddb6acac79e99?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | On Site | Feb 19 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69991e1be0bddb6acac81e28?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Feb 19 |
+| ↳ | **[Retail Brand Ambassador - Urgently Hiring](https://jobright.ai/jobs/info/6998b6b981476f6176b1270d?utm_campaign=Marketing&utm_source=1103)** | Merritt Island, FL | On Site | Feb 19 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/69990b7881476f6176b180be?utm_campaign=Marketing&utm_source=1103)** | St Augustine, FL | On Site | Feb 19 |
+| ↳ | **[Brand Ambassador  (Full-Time or Part-Time)](https://jobright.ai/jobs/info/69988ccdce78e77b4fdd3221?utm_campaign=Marketing&utm_source=1103)** | North Houston, TX | On Site | Feb 19 |
 | **[Kirvin Doak Communications](http://www.kirvindoak.com/)** | **[Public Relations Coordinator](https://jobright.ai/jobs/info/6998527981476f6176b0c338?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | Hybrid | Feb 19 |
 | **[i3 International](http://i3international.com/)** | **[Channel Marketing Associate](https://jobright.ai/jobs/info/6997c731ce78e77b4fdc2d31?utm_campaign=Marketing&utm_source=1103)** | Scarborough, Ontario, Canada | On Site | Feb 19 |
 | **[SaskTel](http://www.sasktel.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/6997c53081476f6176aff120?utm_campaign=Marketing&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | Feb 19 |
@@ -1193,7 +1201,6 @@ For a complete list, click the following sortable link below:
 | **[Chartis](http://www.chartis.com/)** | **[Advisor, Healthcare Communications](https://jobright.ai/jobs/info/6996bc0ee0bddb6acac55e01?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | On Site | Feb 18 |
 | **[Center for Family Representation](https://cfrny.org/)** | **[Communications Associate](https://jobright.ai/jobs/info/6996decee0bddb6acac5777a?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Feb 18 |
 | **[True Friends](https://truefriends.org/)** | **[Communications & Storytelling Specialist](https://jobright.ai/jobs/info/699812d681476f6176b0815c?utm_campaign=Marketing&utm_source=1103)** | Sites, CA | On Site | Feb 18 |
-| **[ensiteful](https://www.linkedin.com/company/90429245)** | **[Level 2 Brand Agent Application - Texas](https://jobright.ai/jobs/info/6996a77981476f6176ae9913?utm_campaign=Marketing&utm_source=1103)** | Little Elm, TX | On Site | Feb 18 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Digital Support Specialist, GreenCars](https://jobright.ai/jobs/info/6996a51681476f6176ae942a?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Feb 18 |
 | **[Vacatia](https://vacatia.com)** | **[Pre-arrival Marketing Representative](https://jobright.ai/jobs/info/6996a172ce78e77b4fdac6ef?utm_campaign=Marketing&utm_source=1103)** | Williamsburg, VA | Hybrid | Feb 18 |
 | **[The Nix Company](https://www.thenix.co)** | **[Social Media Manager](https://jobright.ai/jobs/info/69969f4981476f6176ae8871?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | Hybrid | Feb 18 |
@@ -1244,14 +1251,12 @@ For a complete list, click the following sortable link below:
 | **[General Atlantic](http://www.generalatlantic.com)** | **[2026 Analyst, Growth Acceleration](https://jobright.ai/jobs/info/69967457ce78e77b4fda818c?utm_campaign=Marketing&utm_source=1103)** | New York - Park Avenue | On Site | Feb 18 |
 | **[Living Proof, Inc.](http://www.livingproof.com)** | **[Influencer Coordinator, Paid & UGC (Hybrid NYC)](https://jobright.ai/jobs/info/69967a0b81476f6176ae510a?utm_campaign=Marketing&utm_source=1103)** | New York City | Hybrid | Feb 18 |
 | **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[Sales & Event Coordinator](https://jobright.ai/jobs/info/69968c54ce78e77b4fdaa43b?utm_campaign=Marketing&utm_source=1103)** | Bethesda, MD, US | On Site | Feb 18 |
-| **[SCS Engineers](https://scsengineers.com)** | **[Internal Communications Coordinator](https://jobright.ai/jobs/info/69967578e0bddb6acac4ee2f?utm_campaign=Marketing&utm_source=1103)** | US-KS-Overland Park | On Site | Feb 18 |
-| ↳ | **[Internal Communications Coordinator](https://jobright.ai/jobs/info/69968f9ece78e77b4fdaa9f2?utm_campaign=Marketing&utm_source=1103)** | Overland Park, KS, US | On Site | Feb 18 |
+| **[SCS Engineers](https://scsengineers.com)** | **[Internal Communications Coordinator](https://jobright.ai/jobs/info/69968f9ece78e77b4fdaa9f2?utm_campaign=Marketing&utm_source=1103)** | Overland Park, KS, US | On Site | Feb 18 |
+| ↳ | **[Internal Communications Coordinator](https://jobright.ai/jobs/info/69967578e0bddb6acac4ee2f?utm_campaign=Marketing&utm_source=1103)** | US-KS-Overland Park | On Site | Feb 18 |
 | **[One River School of Art + Design](https://oneriverschool.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/6996930a81476f6176ae758f?utm_campaign=Marketing&utm_source=1103)** | Corporate, Englewood, NJ, US | Hybrid | Feb 18 |
 | **[GetMyCourse](https://getmycourse.com.au)** | **[Nebula \- Digital Marketing Specialist \- Work from home, morning shift](https://jobright.ai/jobs/info/699e9910e0bddb6acace5bf2?utm_campaign=Marketing&utm_source=1103)** | Remote job | Remote | Feb 18 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Digital Marketing Assistant](https://jobright.ai/jobs/info/69967f2ce0bddb6acac4f9d6?utm_campaign=Marketing&utm_source=1103)** | New York, New York | Hybrid | Feb 18 |
 | **[Hue.](https://poweredbyhue.com)** | **[Campaigns & Community Coordinator](https://jobright.ai/jobs/info/69967e47e0bddb6acac4f930?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Feb 18 |
 | **[MUBI](http://mubi.com)** | **[Marketing Coordinator, US](https://jobright.ai/jobs/info/6997722ae0bddb6acac62ac3?utm_campaign=Marketing&utm_source=1103)** | New York City | Hybrid | Feb 18 |
 | **[Mondo](https://trymondo.com)** | **[Community Manager](https://jobright.ai/jobs/info/6997d858ce78e77b4fdc4941?utm_campaign=Marketing&utm_source=1103)** | Camden, NJ, US | Hybrid | Feb 18 |
-| **[Kantar](http://www.kantar.com)** | **[Associate Measurement Lead, Media](https://jobright.ai/jobs/info/69962dfce0bddb6acac48d29?utm_campaign=Marketing&utm_source=1103)** | Indiana, United States | Remote | Feb 18 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Market Analyst](https://jobright.ai/jobs/info/699630a1e0bddb6acac490e0?utm_campaign=Marketing&utm_source=1103)** | Indianapolis, IN | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
